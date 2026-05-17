@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Power Figure"
+  short_description: "Create IEEE PES journal-ready power and smart-grid figures."
+  default_prompt: "Create or audit IEEE Transactions-ready figures for a power systems or smart grid paper."

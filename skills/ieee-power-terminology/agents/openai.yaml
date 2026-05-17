@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Power Terminology"
+  short_description: "Normalize IEEE PES power terminology."
+  default_prompt: "Normalize terminology and acronyms in this IEEE power systems manuscript text."

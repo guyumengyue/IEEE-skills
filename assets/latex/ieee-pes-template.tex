@@ -1,0 +1,56 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{cite}
+
+\begin{document}
+
+\title{A Concise IEEE PES Transactions Manuscript Title}
+
+\author{First A. Author,~\IEEEmembership{Member,~IEEE,}
+        and Second B. Author,~\IEEEmembership{Senior Member,~IEEE}%
+\thanks{Manuscript received Month DD, YYYY; revised Month DD, YYYY.}
+\thanks{First A. Author is with the Department of Electrical Engineering,
+University Name, City, Country (e-mail: author@example.com).}}
+
+\maketitle
+
+\begin{abstract}
+Write a single self-contained paragraph of approximately 150--200 words.
+Avoid citations, footnotes, displayed equations, and unexplained abbreviations.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Active distribution network, demand response, distributed energy resources,
+optimal power flow, smart grid.
+\end{IEEEkeywords}
+
+\section{Introduction}
+State the operational problem, the unresolved technical gap, and the specific
+contribution. Tie each claim to evidence that appears later in the paper.
+
+\section{Method}
+Define the model, assumptions, notation, and reproducibility-critical settings.
+
+\section{Results}
+Refer to each figure and table close to its first discussion, as in Fig.~\ref{fig:example}.
+
+\begin{figure}[!t]
+\centering
+\fbox{\parbox[c][1.1in][c]{0.92\columnwidth}{\centering
+Replace this box with an IEEE-skills PDF or SVG-derived figure.}}
+\caption{IEEE one-column figure example. The caption should define plotted
+quantities, units, scenarios, and error bars when applicable.}
+\label{fig:example}
+\end{figure}
+
+\section{Conclusion}
+Summarize what was demonstrated, the supporting evidence, and the boundary of
+the claim. Do not introduce new results.
+
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}

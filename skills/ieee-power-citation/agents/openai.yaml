@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Power Citation"
+  short_description: "Check IEEE numeric citations, BibTeX, and reference hygiene."
+  default_prompt: "Audit this manuscript bibliography for IEEE Transactions reference style."

@@ -1,0 +1,21 @@
+{
+  "name": "IEEE-skills",
+  "description": "A collection of IEEE PES publication skills and plotting utilities for IEEE Transactions on Power Systems and IEEE Transactions on Smart Grid. Covers figure generation, manuscript writing, citation/BibTeX hygiene, and power-system terminology normalization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "IEEE-skills contributors",
+    "email": ""
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/guyumengyue/IEEE-skills",
+  "repository": "https://github.com/guyumengyue/IEEE-skills",
+  "keywords": [
+    "ieee",
+    "power-systems",
+    "smart-grid",
+    "academic",
+    "figure",
+    "bibtex",
+    "publication"
+  ]
+}

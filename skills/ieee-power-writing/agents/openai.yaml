@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Power Writing"
+  short_description: "Draft and polish IEEE PES transaction manuscript sections."
+  default_prompt: "Draft or revise this power systems manuscript section for IEEE Transactions style."
